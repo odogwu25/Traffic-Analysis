@@ -49,3 +49,9 @@ Congestion levels in SB section J10 – J32 seem higher than anywhere else. NB s
 
 ### How Does Time Affect the Average Speed?
 The line graphs below show the relationship between time intervals and average speed for both NB and SB. Average speed in the NB sections reduces at 12:00 and 13:00 between J1 and J9 but remains steady at other times. Congestion is predicted in the SB sections between J1 and J9 at 4:00 and 15:00.
+
+![](https://github.com/odogwu25/Traffic-Analysis/blob/main/images/NB%20average%20speed%20by%20time.png)
+
+![](https://github.com/odogwu25/Traffic-Analysis/blob/main/images/SB%20average%20speed%20by%20time.png)
+
+
