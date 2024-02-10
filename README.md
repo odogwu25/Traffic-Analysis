@@ -18,7 +18,7 @@ The analysis will be based on getting insight into the geographical locations wi
 ![](https://github.com/odogwu25/Traffic-Analysis/blob/main/images/summary%20stat.png)
 
 
-# A. Northbound (NB):
+### A. Northbound (NB):
 The data frame  below shows the summary statistics of the speed level on the M1 Northbound (NB) which was partitioned into Section A, B and C. The descriptive statistics are the mean, median, mode and standard deviation.
 
 ![](https://github.com/odogwu25/Traffic-Analysis/blob/main/images/NB%20dataframe.png)
@@ -29,7 +29,7 @@ The data frame  below shows the summary statistics of the speed level on the M1 
 
 **Section C (J33 – 48):** In section C (between J33 and J48), the average speed is highest on Saturdays (67.04 mph), Tuesdays (65.7 mph), and Mondays (65.1 mph). The mode of 70, 70 and 70 represents how frequently these averages occur on these days, respectively. With a standard deviation of 3.6, 4.4 and 5.9, respectively, it indicates the speed levels are very close to the average, which shows little variation in speed levels on these days. So, the management can be certain that there will be no surprises as regards the traffic flow in the NB direction on Saturdays, Tuesdays, and Mondays.
 
-# B. Southbound(SB):
+### B. Southbound(SB):
 ![](https://github.com/odogwu25/Traffic-Analysis/blob/main/images/Southbound%20dataframe.png)
 
 **Section A (J1 – J9):** Tuesdays, Saturdays, and Thursdays are the fastest days to travel between J1 and J9 via SB (62.9 mph, 62.3 mph, and 62.2 mph, respectively). The modes of 62.9, 70, and 58.8, respectively, show the frequency of these average speeds on these days. The speed levels are reasonably close to the average, with standard deviations of 3.8, 8.4, and 4.5, respectively, indicating little variation in speed levels on these days. As a result, the management may be sure that the traffic flow on certain days won't be a surprise.
@@ -39,7 +39,7 @@ The data frame  below shows the summary statistics of the speed level on the M1 
 **Section C (J33 – 48):** The average speed is highest on Saturdays (65.4 mph), Tuesdays (65.3 mph), and Wednesdays (63.8 mph) in section C (between J33 and J48). The frequency of these averages on these days is shown by the modes of 70, 70, and 60.2. The speed levels are quite near to the average, which implies little variance in speed levels on these days, with standard deviations of 6.0, 3.7, and 3.5, respectively. Therefore, the management can be confident that there won't be any surprises about the traffic flow in the SB direction on Saturdays, Tuesdays, and Wednesdays.
 
 
-# Comparing Congestion level Between the Southbound and Northbound
+### Comparing Congestion level Between the Southbound and Northbound
 The box plots below show the congestion level based on different sections in northbound and Southbound. The red, blue, and green colours represent high, medium, and low levels.
 
 ![](https://github.com/odogwu25/Traffic-Analysis/blob/main/images/NB%20boxplot.png)
@@ -47,5 +47,5 @@ The box plots below show the congestion level based on different sections in nor
 ![](https://github.com/odogwu25/Traffic-Analysis/blob/main/images/SB%20boxplot.png)
 Congestion levels in SB section J10 – J32 seem higher than anywhere else. NB sections have low congestion levels in all sections, with J1 - J10 having the highest average speeds on both bounds.
 
-# How Does Time Affect the Average Speed?
+### How Does Time Affect the Average Speed?
 The line graphs below show the relationship between time intervals and average speed for both NB and SB. Average speed in the NB sections reduces at 12:00 and 13:00 between J1 and J9 but remains steady at other times. Congestion is predicted in the SB sections between J1 and J9 at 4:00 and 15:00.
