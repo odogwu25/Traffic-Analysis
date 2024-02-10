@@ -15,7 +15,7 @@ The M1 motorway was split into three strata in this study based on geographical 
 # ANALYSIS OF FINDINGS
 The analysis will be based on getting insight into the geographical locations with the highest average speed and congestion levels for days of the week and time of the day. The data frame below shows the sample average speed level summary statistics on geographical location and day. This analysis will be done by independently investigating each stratum and comparing them afterwards to find the days and times that will be the fastest travel on the M1 road.
 
-![](https://github.com/odogwu25/Traffic-Analysis/blob/main/Traffic%20Analysis.R)
+![](https://github.com/odogwu25/Traffic-Analysis/blob/main/images/summary%20stat.png)
 
 
 
