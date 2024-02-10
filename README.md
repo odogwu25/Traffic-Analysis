@@ -43,6 +43,9 @@ The data frame  below shows the summary statistics of the speed level on the M1 
 The box plots below show the congestion level based on different sections in northbound and Southbound. The red, blue, and green colours represent high, medium, and low levels.
 
 ![](https://github.com/odogwu25/Traffic-Analysis/blob/main/images/NB%20boxplot.png)
+
 ![](https://github.com/odogwu25/Traffic-Analysis/blob/main/images/SB%20boxplot.png)
 Congestion levels in SB section J10 – J32 seem higher than anywhere else. NB sections have low congestion levels in all sections, with J1 - J10 having the highest average speeds on both bounds.
 
+# How Does Time Affect the Average Speed?
+The line graphs below show the relationship between time intervals and average speed for both NB and SB. Average speed in the NB sections reduces at 12:00 and 13:00 between J1 and J9 but remains steady at other times. Congestion is predicted in the SB sections between J1 and J9 at 4:00 and 15:00.
