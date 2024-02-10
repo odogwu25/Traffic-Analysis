@@ -2,7 +2,7 @@
 
 This report aims to investigate the speed on the M1 highway. The report will cover the data gathered, sampling strategy, and statistical analysis. All analysis and visualisation were done using R programming language.
 
-# DATA COLLECTION AND PREPROCESSING
+## DATA COLLECTION AND PREPROCESSING
 Data on the M1's average speed was gathered from www.trafficengland.com, Traffic England's official website. The data was collected over three weeks, from March 3 to April 19, 2023. The data was collected randomly by taking snapshots from the traffic website and converting them to csv. The information gathered includes the time and day the data was recorded, the average speed of the traffic in miles per hour (mph), the junction names, Direction descriptions, Downstream/Upstream links and speed limits on various roads.
 
 The data, consisting of 1512 entries and 330 columns, was prepared for analysis by selecting the relevant columns needed for the analysis and then replacing null values on some rows using the mean imputation to avoid data loss. This reduced the dimension of the new data frame to 1458 entries and 27 columns.
