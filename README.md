@@ -54,4 +54,6 @@ The line graphs below show the relationship between time intervals and average s
 
 ![](https://github.com/odogwu25/Traffic-Analysis/blob/main/images/SB%20average%20speed%20by%20time.png)
 
+### CONCLUSION
 
+According to the charts and analysis, Saturday mornings will be the best time for travellers through the M1 highway, with an average speed of 67 mph in the northbound direction and 65.4 mph in the southbound direction, respectively. The day of the week and the time of day may also affect traffic flow. At noon (between 12:00 and 15:00), there are delays between J1 and J9. J10 - J32 has an increasing standard deviation on both NB and SB, which makes it primarily unpredictable, although there are no visible congestions in these areas. Finally, it was found that events and construction could bring on delays and changes in travel speed and affect congestion time.
